@@ -1,5 +1,4 @@
 # Hi! I am Gianp!
-![Gian](https://user-images.githubusercontent.com/28188499/206478465-1ece97f5-6003-4d4a-93c5-f25118c7c287.gif)
 
 ![Bontempogianpaolo1's GitHub stats](https://github-readme-stats.vercel.app/api?username=bontempogianpaolo1&theme=dark&count_private=true)
 - 🚀 I use daily:
