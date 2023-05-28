@@ -13,7 +13,7 @@
 
 ###### Main works:
 
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+<a href="https://github.com/Bontempogianpaolo1/continualExplain">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bontempogianpaolo1&repo=continualExplain&theme=dark" />
 </a>
 
